@@ -1,0 +1,3 @@
+C:\WorkSpace\70488\Labs\Modulo14\CustomControlSharePointHosted\CustomControlSharePointHosted\bin\Debug\CustomControlSharePointHosted.pdb
+C:\WorkSpace\70488\Labs\Modulo14\CustomControlSharePointHosted\CustomControlSharePointHosted\obj\Debug\CustomControlSharePointHosted.dll
+C:\WorkSpace\70488\Labs\Modulo14\CustomControlSharePointHosted\CustomControlSharePointHosted\obj\Debug\CustomControlSharePointHosted.pdb

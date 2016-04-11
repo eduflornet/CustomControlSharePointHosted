@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="7f980f2d-980c-41ec-af98-c2804b3152c2" 
+        solutionId="7f980f2d-980c-41ec-af98-c2804b3152c2" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CustomControlSharePointHosted"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="7b9f04db-26df-46b0-9a51-9ccf5d37edef" />
+  </features>
+</package>
